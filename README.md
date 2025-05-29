@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/img/Meliphora.svg" alt="Meliphora Logo" width="200" />
+  <img src="public/img/Meliphora(200x200).jpg" alt="Meliphora Logo" width="200" />
   <h1>🐝 Meliphora 🐝</h1>
   <h3>Your Comprehensive Beekeeping Management Platform</h3>
   <p>Track, manage, and optimize your apiaries, hives, and bee colonies with precision. Designed for beekeepers of all scales, Meliphora empowers you to make data-driven decisions for healthier bees and better harvests.</p>
